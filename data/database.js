@@ -24,4 +24,7 @@ const database = client.db(dbName);
 
 export default database;
 
-// mongodb+srv://jordantanaliga:secret@development.2j7st.mongodb.net/?appName=Development
+// jordantanaliga
+// 0GTJXo4dKzmXLcGc
+
+// mongodb+srv://jordantanaliga:0GTJXo4dKzmXLcGc@cluster0.uituaud.mongodb.net/?appName=Cluster0

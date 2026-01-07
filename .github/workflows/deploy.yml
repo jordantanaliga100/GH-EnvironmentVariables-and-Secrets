@@ -9,9 +9,9 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: development.2j7st.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.uituaud.mongodb.net
       MONGODB_USERNAME: jordantanaliga
-      MONGODB_PASSWORD: secret
+      MONGODB_PASSWORD: 0GTJXo4dKzmXLcGc
       PORT: 8080
     runs-on: ubuntu-latest
     steps:
